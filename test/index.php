@@ -16,7 +16,7 @@
  * ]
  * @return array ['success'=>bool, 'file'=>string|null, 'error'=>string|null]
  */
-require_once 'filterValue.php';
+require_once '../classes/filterValue.php';
 
 session_start();
 
